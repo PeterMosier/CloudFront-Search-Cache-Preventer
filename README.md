@@ -10,7 +10,7 @@ Created for the website https://untamedframes.ca to prevent AWS CloudFront from 
 
 This is a Wordpress custom plugin (PHP).
 
-## How To Upload this Custom Plugin to Wordpress
+## ⚙️ Installation: How To Upload this Custom Plugin to Wordpress
 
 Reminder: The plugin name and version are stored in the header of the .PHP file, so the file names below are merely suggestions to keep things tidy.
 
