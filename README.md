@@ -1,6 +1,4 @@
-# CloudFront Search Cache Preventer
-
-## Wordpress Custom Plugin
+# CloudFront Search Cache Preventer | Wordpress Custom Plugin | PHP
 
 Sends HTTP headers to force CloudFront and browsers NOT to cache search results. Prevents SEO spam cache poisoning.
 
